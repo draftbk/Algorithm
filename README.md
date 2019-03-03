@@ -18,5 +18,5 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | A + B Problem | Easy | No | Yes | Yes | [note](https://github.com/draftbk/Algorithm/blob/master/Notes/T1.%20A%20%2B%20B%20Problem.md) |
-| 1 | A + B Problem | Easy | No | Yes | Yes | ------ |
+| 2 | Trailing Zeros | Easy | No | Yes | Yes | ------ |
 
