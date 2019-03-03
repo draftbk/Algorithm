@@ -44,6 +44,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | A + B Problem | Easy | No | Yes | Yes | [T1](https://github.com/draftbk/Algorithm/blob/master/Notes/T1.%20A%20%2B%20B%20Problem.md) |
 | 3 | Digit Counts | Medium | No | Yes | Yes | [T3](https://github.com/draftbk/Algorithm/blob/master/Notes/T3.%20Digit%20Counts.md) |
+| 9 | A + B Problem | Easy | No | Yes | Yes | [T1](https://github.com/draftbk/Algorithm/blob/master/Notes/T1.%20A%20%2B%20B%20Problem.md) |
 
 ## 其他（Other）
 
