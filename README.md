@@ -30,7 +30,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 2 | Trailing Zeros | Easy | No | Yes | Yes | [T2](https://github.com/draftbk/Algorithm/blob/master/Notes/T2.%20Trailing%20Zeros.md) |
 | 4 | Ugly Number II | Medium | No | Yes | Yes | [T4](https://github.com/draftbk/Algorithm/blob/master/Notes/T4.%20Ugly%20Number%20II.md) |
-| 517 | Ugly Number | Easy | No | Yes | Yes | [T4](https://github.com/draftbk/Algorithm/blob/master/Notes/T4.%20Ugly%20Number%20II.md) |
+| 517 | Ugly Number | Easy | No | Yes | Yes | [T517](https://github.com/draftbk/Algorithm/blob/master/Notes/T517.%20Ugly%20Number.md) |
 
 ## 暴力（Brute Force）
 
