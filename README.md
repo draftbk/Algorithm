@@ -6,6 +6,10 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 
+## 排序（Sort）
+| Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+
 ## 宽度优先搜索（BFS）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
