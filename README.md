@@ -29,7 +29,7 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 2 | Trailing Zeros | Easy | No | Yes | Yes | [T2](https://github.com/draftbk/Algorithm/blob/master/Notes/T2.%20Trailing%20Zeros.md) |
-| 4 | Ugly Number II | Medium | No | Yes | Yes | [T4](https://github.com/draftbk/Algorithm/blob/master/Notes/T3.%20Digit%20Counts.md) |
+| 4 | Ugly Number II | Medium | No | Yes | Yes | [T4](https://github.com/draftbk/Algorithm/blob/master/Notes/T4.%20Ugly%20Number%20II.md) |
 
 ## 暴力（Brute Force）
 
