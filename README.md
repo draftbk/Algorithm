@@ -1,6 +1,6 @@
 # Lintcode 刷题记录
 
-整理在 lintcode 上刷的题
+整理在 lintcode 上刷的题，可以进入 [https://www.lintcode.com/problem/](https://www.lintcode.com/problem/)，然后搜索对应的编号找到题目。
 
 ## 字符串（String）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
@@ -30,6 +30,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 2 | Trailing Zeros | Easy | No | Yes | Yes | [T2](https://github.com/draftbk/Algorithm/blob/master/Notes/T2.%20Trailing%20Zeros.md) |
 | 4 | Ugly Number II | Medium | No | Yes | Yes | [T4](https://github.com/draftbk/Algorithm/blob/master/Notes/T4.%20Ugly%20Number%20II.md) |
+| 517 | Ugly Number | Easy | No | Yes | Yes | [T4](https://github.com/draftbk/Algorithm/blob/master/Notes/T4.%20Ugly%20Number%20II.md) |
 
 ## 暴力（Brute Force）
 
