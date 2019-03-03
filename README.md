@@ -19,6 +19,7 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 
+## 树（Tree）
 
 ## 动态规划（DP）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
