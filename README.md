@@ -6,6 +6,7 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 8 | Rotate String | Easy | No | Yes | Yes | [T8](https://github.com/draftbk/Algorithm/blob/master/Notes/T8.%20Rotate%20String.md) |
+| 13 | Implement strStr() | Easy | No | Yes | Yes | [T13](https://github.com/draftbk/Algorithm/blob/master/Notes/T13.%20Implement%20strStr().md) |
 
 ## 排序（Sort）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
