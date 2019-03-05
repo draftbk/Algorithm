@@ -70,3 +70,4 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 6 | Merge Two Sorted Arrays | Easy | No | Yes | Yes | [T6](https://github.com/draftbk/Algorithm/blob/master/Notes/T6.%20Merge%20Two%20Sorted%20Arrays.md) |
+| 56 | Two Sum | Easy | No | Yes | Yes | [T56](https://github.com/draftbk/Algorithm/blob/master/Notes/T56.%20Two%20Sum.md) |
