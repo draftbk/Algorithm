@@ -27,6 +27,7 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 7 | Serialize and Deserialize Binary Tree | Medium | No | Yes | Yes | [T7](https://github.com/draftbk/Algorithm/blob/master/Notes/T7.%20Serialize%20and%20Deserialize%20Binary%20Tree.md) |
+| 1106 | Maximum Binary Tree | Medium | No | Yes | Yes | [T1106](https://github.com/draftbk/Algorithm/blob/master/Notes/T1106.%20Maximum%20Binary%20Tree.md) |
 
 ## 动态规划（DP）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
@@ -43,7 +44,7 @@
 | 2 | Trailing Zeros | Easy | No | Yes | Yes | [T2](https://github.com/draftbk/Algorithm/blob/master/Notes/T2.%20Trailing%20Zeros.md) |
 | 4 | Ugly Number II | Medium | No | Yes | Yes | [T4](https://github.com/draftbk/Algorithm/blob/master/Notes/T4.%20Ugly%20Number%20II.md) |
 | 517 | Ugly Number | Easy | No | Yes | Yes | [T517](https://github.com/draftbk/Algorithm/blob/master/Notes/T517.%20Ugly%20Number.md) |
-| 1324 | Count Primes | Easy | No | Yes | [No]() | [T1350](https://github.com/draftbk/Algorithm/blob/master/Notes/T1350.%20Excel%20Sheet%20Column%20Title.md) |
+| 1324 | Count Primes | Easy | No | Yes | [No]() | [T1324](https://github.com/draftbk/Algorithm/blob/master/Notes/T1324.%20Count%20Primes.md) |
 | 1350 | Excel Sheet Column Title | Easy | No | Yes | Yes | [T1350](https://github.com/draftbk/Algorithm/blob/master/Notes/T1350.%20Excel%20Sheet%20Column%20Title.md) |
 
 ## 暴力（Brute Force）
