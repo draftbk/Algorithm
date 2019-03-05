@@ -43,6 +43,7 @@
 | 2 | Trailing Zeros | Easy | No | Yes | Yes | [T2](https://github.com/draftbk/Algorithm/blob/master/Notes/T2.%20Trailing%20Zeros.md) |
 | 4 | Ugly Number II | Medium | No | Yes | Yes | [T4](https://github.com/draftbk/Algorithm/blob/master/Notes/T4.%20Ugly%20Number%20II.md) |
 | 517 | Ugly Number | Easy | No | Yes | Yes | [T517](https://github.com/draftbk/Algorithm/blob/master/Notes/T517.%20Ugly%20Number.md) |
+| 1324 | Count Primes | Easy | No | Yes | [No]() | [T1350](https://github.com/draftbk/Algorithm/blob/master/Notes/T1350.%20Excel%20Sheet%20Column%20Title.md) |
 | 1350 | Excel Sheet Column Title | Easy | No | Yes | Yes | [T1350](https://github.com/draftbk/Algorithm/blob/master/Notes/T1350.%20Excel%20Sheet%20Column%20Title.md) |
 
 ## 暴力（Brute Force）
