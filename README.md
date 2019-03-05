@@ -27,6 +27,7 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 7 | Serialize and Deserialize Binary Tree | Medium | No | Yes | Yes | [T7](https://github.com/draftbk/Algorithm/blob/master/Notes/T7.%20Serialize%20and%20Deserialize%20Binary%20Tree.md) |
+| 453 | Flatten Binary Tree to Linked List | Easy | No | Yes | [No]() | [T453](https://github.com/draftbk/Algorithm/blob/master/Notes/T453.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) |
 | 1106 | Maximum Binary Tree | Medium | No | Yes | Yes | [T1106](https://github.com/draftbk/Algorithm/blob/master/Notes/T1106.%20Maximum%20Binary%20Tree.md) |
 
 ## 动态规划（DP）
