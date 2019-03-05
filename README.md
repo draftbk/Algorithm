@@ -13,6 +13,12 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 5 | Kth Largest Element | Medium | No | Yes | [No]() | [T5](https://github.com/draftbk/Algorithm/blob/master/Notes/T5.%20Kth%20Largest%20Element.md) |
+
+## 链表（Linked List）
+| Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| 372 | Delete Node in a Linked List | Easy | No | Yes | Yes | [T5](https://github.com/draftbk/Algorithm/blob/master/Notes/T5.%20Kth%20Largest%20Element.md) |
+
 ## 宽度优先搜索（BFS）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -55,6 +61,7 @@
 | 1 | A + B Problem | Easy | No | Yes | Yes | [T1](https://github.com/draftbk/Algorithm/blob/master/Notes/T1.%20A%20%2B%20B%20Problem.md) |
 | 3 | Digit Counts | Medium | No | Yes | Yes | [T3](https://github.com/draftbk/Algorithm/blob/master/Notes/T3.%20Digit%20Counts.md) |
 | 9 | Fizz Buzz | Easy | No | Yes | Yes | [T9](https://github.com/draftbk/Algorithm/blob/master/Notes/T9.%20Fizz%20Buzz.md) |
+| 156 | Merge Intervals | Easy | No | Yes | Yes | [T156](https://github.com/draftbk/Algorithm/blob/master/Notes/T156.%20Merge%20Intervals.md) |
 
 ## 其他（Other）
 
