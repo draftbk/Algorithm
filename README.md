@@ -17,7 +17,7 @@
 ## 链表（Linked List）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 372 | Delete Node in a Linked List | Easy | No | Yes | Yes | [T5](https://github.com/draftbk/Algorithm/blob/master/Notes/T5.%20Kth%20Largest%20Element.md) |
+| 372 | Delete Node in a Linked List | Easy | No | Yes | Yes | [T372](https://github.com/draftbk/Algorithm/blob/master/Notes/T372.%20Delete%20Node%20in%20a%20Linked%20List.md) |
 
 ## 宽度优先搜索（BFS）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
