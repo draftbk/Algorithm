@@ -7,7 +7,8 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 8 | Rotate String | Easy | No | Yes | Yes | [T8](https://github.com/draftbk/Algorithm/blob/master/Notes/T8.%20Rotate%20String.md) |
 | 13 | Implement strStr() | Easy | No | Yes | Yes | [T13](https://github.com/draftbk/Algorithm/blob/master/Notes/T13.%20Implement%20strStr().md) |
-| 211 | 211. String Permutation | Easy | No | Yes | Yes | [T211](https://github.com/draftbk/Algorithm/blob/master/Notes/T211.%20String%20Permutation.md) |
+| 211 | String Permutation | Easy | No | Yes | Yes | [T211](https://github.com/draftbk/Algorithm/blob/master/Notes/T211.%20String%20Permutation.md) |
+| 927 | Reverse Words in a String II | Medium | No | Yes | Yes | [T927](https://github.com/draftbk/Algorithm/blob/master/Notes/T927.%20Reverse%20Words%20in%20a%20String%20II.md) |
 
 ## 排序（Sort）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
