@@ -17,6 +17,13 @@
 | 5 | Kth Largest Element | Medium | No | Yes | [No]() | [T5](https://github.com/draftbk/Algorithm/blob/master/Notes/T5.%20Kth%20Largest%20Element.md) |
 
 ## 链表（Linked List）
+
+常用方法：
+
+- 在前面加一个 preNode
+- 要知道基本的删除，插入操作
+- 两个指针一快一慢找中间点等操作
+
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 35 | Reverse Linked List | Easy | No | Yes | Yes | [T35](https://github.com/draftbk/Algorithm/blob/master/Notes/T35.%20Reverse%20Linked%20List.md) |
