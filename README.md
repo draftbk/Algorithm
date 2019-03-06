@@ -22,6 +22,7 @@
 | 35 | Reverse Linked List | Easy | No | Yes | Yes | [T35](https://github.com/draftbk/Algorithm/blob/master/Notes/T35.%20Reverse%20Linked%20List.md) |
 | 167 | Add Two Numbers | Easy | No | Yes | Yes | [T167](https://github.com/draftbk/Algorithm/blob/master/Notes/T167.%20Add%20Two%20Numbers.md) |
 | 372 | Delete Node in a Linked List | Easy | No | Yes | Yes | [T372](https://github.com/draftbk/Algorithm/blob/master/Notes/T372.%20Delete%20Node%20in%20a%20Linked%20List.md) |
+| 380 | Intersection of Two Linked Lists | Medium | No | Yes | Yes | [T380](https://github.com/draftbk/Algorithm/blob/master/Notes/T380.%20Intersection%20of%20Two%20Linked%20Lists.md) |
 
 
 ## 宽度优先搜索（BFS）
