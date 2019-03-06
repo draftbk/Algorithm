@@ -34,9 +34,14 @@
 
 
 ## 宽度优先搜索（BFS）
+
+- 树的 BFS
+- 二维矩阵的 BFS 很多时候要判断边界条件（不能出界啊什么的），代码长是正常的，要耐心
+- 二维矩阵的 BFS 可能要用另一个二维矩阵来记录状态，这样访问状态时间复杂度是 O(1) 不容易超时
+
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-
+| 433 | Number of Islands | Easy | No | Yes | Yes | [T433](https://github.com/draftbk/Algorithm/blob/master/Notes/T433.%20Number%20of%20Islands.md) |
 
 ## 深度优先搜索（DFS）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
