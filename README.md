@@ -3,6 +3,7 @@
 整理在 lintcode 上刷的题，可以进入 [https://www.lintcode.com/problem/](https://www.lintcode.com/problem/)，然后搜索对应的编号找到题目。
 
 ## 字符串（String）
+
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 8 | Rotate String | Easy | No | Yes | Yes | [T8](https://github.com/draftbk/Algorithm/blob/master/Notes/T8.%20Rotate%20String.md) |
@@ -13,6 +14,7 @@
 | 927 | Reverse Words in a String II | Medium | No | Yes | Yes | [T927](https://github.com/draftbk/Algorithm/blob/master/Notes/T927.%20Reverse%20Words%20in%20a%20String%20II.md) |
 
 ## 排序（Sort）
+
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 5 | Kth Largest Element | Medium | No | Yes | [No]() | [T5](https://github.com/draftbk/Algorithm/blob/master/Notes/T5.%20Kth%20Largest%20Element.md) |
