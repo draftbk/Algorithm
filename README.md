@@ -63,6 +63,8 @@
 ## 动态规划（DP）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| 411 | Gray Code | Medium | No | Yes | Yes | [T411](https://github.com/draftbk/Algorithm/blob/master/Notes/T411.%20Gray%20Code.md) |
+
 
 ## 优先级队列，堆（PQ，Heap）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
