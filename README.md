@@ -10,6 +10,7 @@
 | 13 | Implement strStr() | Easy | No | Yes | Yes | [T13](https://github.com/draftbk/Algorithm/blob/master/Notes/T13.%20Implement%20strStr().md) |
 | 200 | Longest Palindromic Substring | Medium | No | Yes | [No]() | [T200](https://github.com/draftbk/Algorithm/blob/master/Notes/T200.%20Longest%20Palindromic%20Substring.md)|
 | 211 | String Permutation | Easy | No | Yes | Yes | [T211](https://github.com/draftbk/Algorithm/blob/master/Notes/T211.%20String%20Permutation.md) |
+| 384 | Longest Substring Without Repeating Characters | Medium | No | Yes | Yes | [T384](https://github.com/draftbk/Algorithm/blob/master/Notes/T384.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |
 | 423 |Valid Parentheses | Easy | No | Yes | Yes | [T423](https://github.com/draftbk/Algorithm/blob/master/Notes/T423.%20Valid%20Parentheses.md) |
 | 927 | Reverse Words in a String II | Medium | No | Yes | Yes | [T927](https://github.com/draftbk/Algorithm/blob/master/Notes/T927.%20Reverse%20Words%20in%20a%20String%20II.md) |
 
