@@ -98,6 +98,7 @@
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 6 | Merge Two Sorted Arrays | Easy | No | Yes | Yes | [T6](https://github.com/draftbk/Algorithm/blob/master/Notes/T6.%20Merge%20Two%20Sorted%20Arrays.md) |
 | 12 | Min Stack | Medium | No | Yes | [No]() | [T12](https://github.com/draftbk/Algorithm/blob/master/Notes/T12.%20Min%20Stack.md) |
+| 14 | First Position of Target | Easy | No | Yes | Yes | [T14](https://github.com/draftbk/Algorithm/blob/master/Notes/T14.%20First%20Position%20of%20Target.md) |
 | 56 | Two Sum | Easy | No | Yes | Yes | [T56](https://github.com/draftbk/Algorithm/blob/master/Notes/T56.%20Two%20Sum.md) |
 | 149 | Best Time to Buy and Sell Stock | Medium | No | Yes | Yes | [T149](https://github.com/draftbk/Algorithm/blob/master/Notes/T149.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 419 | Roman to Integer | Medium | No | Yes | Yes | [T419](https://github.com/draftbk/Algorithm/blob/master/Notes/T419.%20Roman%20to%20Integer.md) |
