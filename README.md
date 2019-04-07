@@ -1,4 +1,4 @@
-# Lintcode 刷题记录
+# Lintcode 刷题记录 (38/300)
 
 整理在 lintcode 上刷的题，可以进入 [https://www.lintcode.com/problem/](https://www.lintcode.com/problem/)，然后搜索对应的编号找到题目。
 
@@ -102,3 +102,4 @@
 | 56 | Two Sum | Easy | No | Yes | Yes | [T56](https://github.com/draftbk/Algorithm/blob/master/Notes/T56.%20Two%20Sum.md) |
 | 149 | Best Time to Buy and Sell Stock | Medium | No | Yes | Yes | [T149](https://github.com/draftbk/Algorithm/blob/master/Notes/T149.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 419 | Roman to Integer | Medium | No | Yes | Yes | [T419](https://github.com/draftbk/Algorithm/blob/master/Notes/T419.%20Roman%20to%20Integer.md) |
+| 1623 | Minimal Distance In The Array | Easy | No | Yes | Yes | [T1623](https://github.com/draftbk/Algorithm/blob/master/Notes/T1623.%20Minimal%20Distance%20In%20The%20Array.md) |
