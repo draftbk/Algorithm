@@ -1,0 +1,26 @@
+# T366. Fibonacci
+
+> Easy
+
+
+```Python
+class Solution:
+    """
+    @param n: an integer
+    @return: an ineger f(n)
+    """
+    def fibonacci(self, n):
+        self.my_map={}
+        return self.helper(n)
+        
+    def helper(self, n):
+        # write your code here
+        if n<=2:
+            return n-1
+        if n in self.my_map:
+            return self.my_map[n]
+        
+        result=self.helper(n-1)+self.helper(n-2)
+        self.my_map[n]=result
+        return result
+```
