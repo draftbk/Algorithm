@@ -1,4 +1,4 @@
-# Lintcode 刷题记录 (32/38)
+# Lintcode 刷题记录 (33/39)
 
 整理在 lintcode 上刷的题，可以进入 [https://www.lintcode.com/problem/](https://www.lintcode.com/problem/)，然后搜索对应的编号找到题目。
 
@@ -65,6 +65,7 @@
 ## 动态规划（DP）
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| 366 | Fibonacci | Easy | No | Yes | Yes | [T366](https://github.com/draftbk/Algorithm/blob/master/Notes/T366.%20Fibonacci.md) |
 | 411 | Gray Code | Medium | No | Yes | Yes | [T411](https://github.com/draftbk/Algorithm/blob/master/Notes/T411.%20Gray%20Code.md) |
 
 
