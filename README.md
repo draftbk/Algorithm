@@ -1,4 +1,4 @@
-# Lintcode 刷题记录 (33/40)
+# Lintcode 刷题记录 (34/41)
 
 整理在 lintcode 上刷的题，可以进入 [https://www.lintcode.com/problem/](https://www.lintcode.com/problem/)，然后搜索对应的编号找到题目。
 
@@ -52,6 +52,7 @@
 | Problem ID | Name | Difficulty | VIP | Solved | Proficiency | Note |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 33 | N-Queens | Medium | No | Yes | [No]() | [T33](https://github.com/draftbk/Algorithm/blob/master/Notes/T33.%20N-Queens.md) |
+| 34 | N-Queens II | Medium | No | Yes | Yes | [T34](https://github.com/draftbk/Algorithm/blob/master/Notes/T34.%20N-Queens%20II.md) |
 
 ## 树（Tree）
 
