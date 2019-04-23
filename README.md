@@ -1,4 +1,4 @@
-# Lintcode 刷题记录 (34/41)
+# Lintcode 刷题记录 (35/42)
 
 整理在 lintcode 上刷的题，可以进入 [https://www.lintcode.com/problem/](https://www.lintcode.com/problem/)，然后搜索对应的编号找到题目。
 
