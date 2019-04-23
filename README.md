@@ -94,6 +94,7 @@
 | 3 | Digit Counts | Medium | No | Yes | Yes | [T3](https://github.com/draftbk/Algorithm/blob/master/Notes/T3.%20Digit%20Counts.md) |
 | 9 | Fizz Buzz | Easy | No | Yes | Yes | [T9](https://github.com/draftbk/Algorithm/blob/master/Notes/T9.%20Fizz%20Buzz.md) |
 | 156 | Merge Intervals | Easy | No | Yes | Yes | [T156](https://github.com/draftbk/Algorithm/blob/master/Notes/T156.%20Merge%20Intervals.md) |
+| 1632 | Count email groups | Easy | No | Yes | Yes | [T1632](https://github.com/draftbk/Algorithm/blob/master/Notes/T1632.%20Count%20email%20groups.md) |
 
 ## 其他（Other）
 
