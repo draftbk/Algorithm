@@ -85,6 +85,7 @@
 | 517 | Ugly Number | Easy | No | Yes | Yes | [T517](https://github.com/draftbk/Algorithm/blob/master/Notes/T517.%20Ugly%20Number.md) |
 | 1324 | Count Primes | Easy | No | Yes | [No]() | [T1324](https://github.com/draftbk/Algorithm/blob/master/Notes/T1324.%20Count%20Primes.md) |
 | 1350 | Excel Sheet Column Title | Easy | No | Yes | Yes | [T1350](https://github.com/draftbk/Algorithm/blob/master/Notes/T1350.%20Excel%20Sheet%20Column%20Title.md) |
+| 1626 | Salary Adjustment | Medium | No | Yes | Yes | [T1626](https://github.com/draftbk/Algorithm/blob/master/Notes/T1626.%20Salary%20Adjustment.md) |
 
 ## 暴力（Brute Force）
 
