@@ -36,6 +36,7 @@
 | 372 | Delete Node in a Linked List | Easy | No | Yes | Yes | [T372](https://github.com/draftbk/Algorithm/blob/master/Notes/T372.%20Delete%20Node%20in%20a%20Linked%20List.md) |
 | 380 | Intersection of Two Linked Lists | Medium | No | Yes | Yes | [T380](https://github.com/draftbk/Algorithm/blob/master/Notes/T380.%20Intersection%20of%20Two%20Linked%20Lists.md) |
 | 451 | Swap Nodes in Pairs | Easy | No | Yes | Yes | [T451](https://github.com/draftbk/Algorithm/blob/master/Notes/T451.%20Swap%20Nodes%20in%20Pairs.md) |
+| 904 | Plus One Linked List | Medium | No | Yes | Yes | [T904](https://github.com/draftbk/Algorithm/blob/master/Notes/T904.%20Plus%20One%20Linked%20List.md) |
 
 
 ## 宽度优先搜索（BFS）
