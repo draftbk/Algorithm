@@ -63,6 +63,7 @@
 | 67 | Binary Tree Inorder Traversal | Easy | No | Yes | Yes | [T67](https://github.com/draftbk/Algorithm/blob/master/Notes/T67.%20Binary%20Tree%20Inorder%20Traversal.md) |
 | 442 | Implement Trie (Prefix Tree) | Medium | No | Yes | [No]() | [T442](https://github.com/draftbk/Algorithm/blob/master/Notes/T442.%20Implement%20Trie%20(Prefix%20Tree).md) |
 | 453 | Flatten Binary Tree to Linked List | Easy | No | Yes | [No]() | [T453](https://github.com/draftbk/Algorithm/blob/master/Notes/T453.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) |
+| 482 | Binary Tree Level Sum | Easy | No | Yes | Yes | [T482](https://github.com/draftbk/Algorithm/blob/master/Notes/T482.%20Binary%20Tree%20Level%20Sum.md) |
 | 1106 | Maximum Binary Tree | Medium | No | Yes | Yes | [T1106](https://github.com/draftbk/Algorithm/blob/master/Notes/T1106.%20Maximum%20Binary%20Tree.md) |
 
 ## 动态规划（DP）
